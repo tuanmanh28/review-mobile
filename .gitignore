@@ -1,0 +1,5 @@
+.DS_Store
+
+# Each platform is its own repo
+/android/
+/ios/
